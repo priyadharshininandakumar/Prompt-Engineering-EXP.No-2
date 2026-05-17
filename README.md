@@ -28,11 +28,11 @@ Blockchain technology, often associated with cryptocurrencies like Bitcoin, repr
 
 **USING CHATGPT**
 
-**1.Zero-Shot Summary**
+**1. Zero-Shot Summary**
 
 Blockchain is a decentralized system that securely records transactions using cryptography and consensus methods. It provides transparency, security, and trust without central control and is applied in cryptocurrencies, healthcare, supply chains, voting, and smart contracts. Despite challenges like scalability and energy consumption, blockchain continues to evolve as an important digital innovation.
 
-**2.Few-Shot Summary**
+**2. Few-Shot Summary**
 
 **Example 1**
 
@@ -48,23 +48,23 @@ Summary: Cloud computing delivers storage and computing services remotely throug
 
 Blockchain is a decentralized digital ledger that uses cryptography and consensus mechanisms to securely verify transactions. It improves transparency, security, and trust across industries such as finance, healthcare, voting, and supply chains, though challenges like scalability and regulation still exist.
 
-**3.Chain-of-Thought Summary**
+**3. Chain-of-Thought Summary**
 
-1.Identify the main topic: Blockchain technology.
+1. Identify the main topic: Blockchain technology.
 
-2.Extract key concepts: decentralization, cryptography, consensus mechanisms, transparency, immutability.
+2. Extract key concepts: decentralization, cryptography, consensus mechanisms, transparency, immutability.
 
-3.Note applications: cryptocurrencies, healthcare, voting, supply chains, smart contracts.
+3. Note applications: cryptocurrencies, healthcare, voting, supply chains, smart contracts.
 
-4.Identify advantages: security, efficiency, trust.
+4. Identify advantages: security, efficiency, trust.
 
-5.Identify limitations: scalability, energy usage, privacy, regulations.
+5. Identify limitations: scalability, energy usage, privacy, regulations.
 
-6.Form concise summary:
+6. Form concise summary:
 
 Blockchain is a decentralized and secure digital ledger system that uses cryptography and consensus mechanisms to verify transactions transparently without central authorities. It has applications beyond cryptocurrencies, including healthcare, voting, supply chains, and smart contracts. While blockchain offers improved security and efficiency, issues such as scalability, energy consumption, and regulatory uncertainty continue to be challenges.
 
-**4.Role-Based System Summary**
+**4. Role-Based System Summary**
 
 **Role:** Teacher
 
@@ -125,65 +125,65 @@ Blockchain is a secure, decentralized digital ledger that eliminates central aut
 **Role B:** The Corporate Executive / Risk CIO
 Executive Brief briefing: Blockchain Technology
 
-1.Core Value: A decentralized, tamper-proof digital ledger ensuring data transparency and immutability without third-party dependencies.
+1. Core Value: A decentralized, tamper-proof digital ledger ensuring data transparency and immutability without third-party dependencies.
 
-2.Operational Scope: Viable applications identified in supply chain logistics, healthcare records, and automated smart contracts.
+2. Operational Scope: Viable applications identified in supply chain logistics, healthcare records, and automated smart contracts.
 
-3.Risk Factors: Implementation carries notable exposure regarding system scalability, high energy overheads, data privacy compliance, and fluid regulatory frameworks.
+3. Risk Factors: Implementation carries notable exposure regarding system scalability, high energy overheads, data privacy compliance, and fluid regulatory frameworks.
 
-4.Strategic Outlook: Monitoring emerging optimizations is recommended before full-scale enterprise integration.
+4. Strategic Outlook: Monitoring emerging optimizations is recommended before full-scale enterprise integration.
 
 **USING COPILOT**
 
-**1.Zero-shot Summary**
+**1. Zero-shot Summary**
 
 Without prior examples, the system condenses the text directly:
 
 Blockchain is a decentralized ledger that enables secure, transparent, and immutable transactions, with applications beyond cryptocurrency in areas like supply chains, healthcare, and voting, though challenges like scalability and regulation remain.
 
-**2.Few-shot Summary**
+**2. Few-shot Summary**
 
 Using learned patterns from prior examples (imagining the system has seen summaries before):
 
 Blockchain ensures trust through cryptography and consensus, powering not only cryptocurrencies but also smart contracts, healthcare, and supply chains. While it offers transparency and efficiency, issues like energy use, privacy, and regulation still need solutions.
 
-**3.Chain-of-Thought Summary**
+**3. Chain-of-Thought Summary**
 
-1.Blockchain is a decentralized ledger.
+1. Blockchain is a decentralized ledger.
 
-2.It secures transactions via cryptography and consensus (Proof of Work, Proof of Stake).
+2. It secures transactions via cryptography and consensus (Proof of Work, Proof of Stake).
 
-3.Benefits: transparency, immutability, trust, efficiency.
+3. Benefits: transparency, immutability, trust, efficiency.
 
-4.Applications: cryptocurrencies, supply chains, healthcare, voting, smart contracts.
+4. Applications: cryptocurrencies, supply chains, healthcare, voting, smart contracts.
 
-5.Challenges: scalability, energy consumption, privacy, regulation.
+5. Challenges: scalability, energy consumption, privacy, regulation.
 
-6.Emerging technologies aim to address these limitations.
+6. Emerging technologies aim to address these limitations.
 
 **Final summary:**
 
 Blockchain is a transformative system offering secure, transparent digital interactions, though it faces hurdles in scalability, energy, privacy, and regulation.
 
-**4.Role-Based Summaries**
+**4. Role-Based Summaries**
 
-1.Technologist: Blockchain is a breakthrough in distributed computing, enabling secure peer-to-peer transactions without central control.
+1. Technologist: Blockchain is a breakthrough in distributed computing, enabling secure peer-to-peer transactions without central control.
 
-2.Economist: Blockchain reduces transaction costs and builds trust in markets, but regulatory uncertainty and energy inefficiency hinder adoption.
+2. Economist: Blockchain reduces transaction costs and builds trust in markets, but regulatory uncertainty and energy inefficiency hinder adoption.
 
-3.Policy Maker: Blockchain could modernize voting and healthcare systems, but privacy and compliance frameworks must evolve.
+3. Policy Maker: Blockchain could modernize voting and healthcare systems, but privacy and compliance frameworks must evolve.
 
-4.Business Leader: Blockchain offers efficiency and transparency in supply chains and contracts, though scalability and regulation remain barriers to mass adoption.
+4. Business Leader: Blockchain offers efficiency and transparency in supply chains and contracts, though scalability and regulation remain barriers to mass adoption.
 
 **USING CLAUDE AI**
 
-**1.Zero-shot summary**
+**1. Zero-shot summary**
 
 Direct, no examples given
 
 Blockchain is a decentralized, tamper-proof digital ledger that records transactions using cryptography and consensus mechanisms. It enables trust without central authorities and powers applications from cryptocurrency to supply chains, healthcare, and smart contracts — though scalability, energy use, and regulatory gaps remain ongoing challenges.
 
-**2.Few-shot summary**
+**2. Few-shot summary**
 
 Guided by prior examples
 
@@ -191,23 +191,23 @@ Example pattern: "X is a Y that does Z, used in A and B, but faces C."
 
 Blockchain is a cryptographic ledger system that records transactions without central oversight, used in finance, logistics, healthcare, and governance — but limited by slow throughput, high energy costs, and unclear regulation. Emerging solutions continue to close these gaps.
 
-**3.Chain-of-thought summary**
+**3. Chain-of-thought summary**
 
 Step-by-step reasoning first
 
-1.What is it? A decentralized ledger secured by cryptography and consensus (PoW/PoS).
+1. What is it? A decentralized ledger secured by cryptography and consensus (PoW/PoS).
 
-2.What does it do? Records transactions transparently and immutably — no central authority needed.
+2. What does it do? Records transactions transparently and immutably — no central authority needed.
 
-3.Where is it used? Crypto, supply chains, healthcare, voting, smart contracts.
+3. Where is it used? Crypto, supply chains, healthcare, voting, smart contracts.
 
-4.What are the limits? Scalability, energy use, privacy concerns, regulatory uncertainty.
+4. What are the limits? Scalability, energy use, privacy concerns, regulatory uncertainty.
 
 **Conclusion:**
 
 Blockchain offers transparent, secure, trustless record-keeping with broad real-world use — but must overcome technical and regulatory hurdles to reach its transformative potential
 
-**4.Role-based summary**
+**4. Role-based summary**
 
 Tailored by audience role
 
