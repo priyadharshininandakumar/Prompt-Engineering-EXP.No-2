@@ -217,6 +217,14 @@ Tailored by audience role
 
 **Beginner-** Think of blockchain as a shared notebook no one can erase or fake. Everyone on the network keeps a copy, so there's no need to trust a single bank or authority.
 
-**Policy-** Blockchain enables transparent, tamper-proof record systems for voting, identity, and healthcare — but energy consumption and regulatory gaps demand urgent policy frameworks.
+**Policy-** Blockchain enables transparent, tamper-proof record systems for voting, identity, and healthcare — but energy consumption and regulatory gaps demand urgent policy frameworks.| Prompting Technique        | Accuracy  | Coherence | Simplicity  | Speed     | User Experience | Overall                |
+| -------------------------- | --------- | --------- | ----------- | --------- | --------------- | ---------------------- |
+| Zero-Shot Prompting        | Medium    | Good      | Very Simple | Very Fast | Easy            | Good                   |
+| Few-Shot Prompting         | High      | High      | Simple      | Medium    | Very Good       | Better                 |
+| Chain-of-Thought Prompting | Very High | Very High | Moderate    | Slower    | Detailed        | Best for complex tasks |
+| Role-Based Prompting       | High      | High      | Simple      | Medium    | Engaging        | Very Good              |
+
+
+
 
 RESULT:
