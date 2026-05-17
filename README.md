@@ -222,7 +222,8 @@ Tailored by audience role
 <img width="806" height="645" alt="image" src="https://github.com/user-attachments/assets/a9d48345-d914-4849-a220-70e0f2b87c54" />
 
 
-
-
-
 RESULT:
+
+Thus, the summarized Result section based on the experiment using the Four prompt types (zero-shot, few-shot, chain-of-thought, role-based) and Four AI platforms (ChatGPT,Gemini,Copilot and Claude).
+
+
