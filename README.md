@@ -223,7 +223,7 @@ Tailored by audience role
 | Zero-Shot Prompting        | Medium    | Good      | Very Simple | Very Fast | Easy            | Good                   |
 | Few-Shot Prompting         | High      | High      | Simple      | Medium    | Very Good       | Better                 |
 | Chain-of-Thought Prompting | Very High | Very High | Moderate    | Slower    | Detailed        | Best for complex tasks |
-| Role-Based Prompting       | High      | High      | Simple      | Medium    | Engaging        | Very Good              |
+| Role-Based Prompting       | High      | High      | Simple      | Medium    | Engaging        | Very Good              |.
 
 
 
