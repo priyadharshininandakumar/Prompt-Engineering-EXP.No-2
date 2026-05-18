@@ -90,6 +90,7 @@ Blockchain is a decentralized, secure digital ledger that uses cryptography and 
 **Example 1 (Output):** Cloud computing delivers internet-based IT resources, saving costs and increasing scalability despite security risks.
 
 **Example 2 (Input):** Artificial Intelligence mimics human intelligence to perform tasks like problem-solving and pattern recognition. It automates industries and improves efficiency, but raises ethical concerns regarding job displacement and bias.
+
 **Example 2 (Output):** AI replicates human intellect to automate tasks and boost efficiency, but faces ethical and bias challenges.
 
 **Target Text (Output):**
