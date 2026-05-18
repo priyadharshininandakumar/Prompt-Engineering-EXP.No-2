@@ -87,6 +87,7 @@ Blockchain is a decentralized, secure digital ledger that uses cryptography and 
 **2. Few-Shot Summary**
 
 **Example 1 (Input):** Cloud computing allows users to access servers, storage, and databases over the internet. It eliminates the need for physical hardware, offering scalability and cost savings, though it introduces data security risks.
+
 **Example 1 (Output):** Cloud computing delivers internet-based IT resources, saving costs and increasing scalability despite security risks.
 
 **Example 2 (Input):** Artificial Intelligence mimics human intelligence to perform tasks like problem-solving and pattern recognition. It automates industries and improves efficiency, but raises ethical concerns regarding job displacement and bias.
